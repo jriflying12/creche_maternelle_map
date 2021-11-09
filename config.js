@@ -1,5 +1,5 @@
 const config = {
-  style: "mapbox://styles/julienrichard/cjrvpus351myv1fp3vgedmvzf",
+  style: "mapbox://styles/mapbox/light-v10",
   accessToken:
     "pk.eyJ1IjoianVsaWVucmljaGFyZCIsImEiOiJja3ZzZXdieDM0bm51MnZxNXNwczN3OW05In0.J724SPwmyb2jRD7ehdmp8g",
   CSV: "./liste__Reference_Revue.csv",
@@ -14,7 +14,7 @@ const config = {
     {
       type: "checkbox",
       title: "public/prive: ",
-      columnHeader: "Languages",
+      columnHeader: "statut_public_prive",
       listItems: [
         "Public",
         "Privé",
