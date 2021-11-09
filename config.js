@@ -1,5 +1,5 @@
 const config = {
-  style: "mapbox://styles/mapbox/light-v10",
+  style: "mapbox://styles/julienrichard/cjrvpus351myv1fp3vgedmvzf",
   accessToken:
     "pk.eyJ1IjoianVsaWVucmljaGFyZCIsImEiOiJja3ZzZXdieDM0bm51MnZxNXNwczN3OW05In0.J724SPwmyb2jRD7ehdmp8g",
   CSV: "./Sample_Data.csv",
